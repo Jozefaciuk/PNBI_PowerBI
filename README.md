@@ -1,16 +1,16 @@
-# 📊 Projektowanie Narzędzi Business Intelligence (PNBI)
+# 📊 Business Intelligence Tools Design (PNBI)
 
-Repozytorium przeznaczone do kolaboracji nad zadaniami z przedmiotu PNBI. Skupiamy się na procesach ETL, hurtowniach danych i wizualizacji.
+Repository dedicated to collaborating on assignments for the PNBI course. We focus on ETL processes, data warehousing, and data visualization.
 
-## 👥 Zespół
+## 👥 Team
 * **Maciej Józefaciuk**
 * **Adam Gierszon**
 
-## 🛠️ Stack Technologiczny
-* **Narzędzia BI:** Power BI
+## 🛠️ Tech Stack
+* **BI Tools:** Power BI
 
-## 📅 Harmonogram Zadań
-- [ ] **Zadanie 1:** Raport na temat przychodów Disneya. 
+## 📅 Task Schedule
+- [ ] **Task 1:** Disney movies revenue report.
 
 ---
 
