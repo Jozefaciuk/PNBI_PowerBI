@@ -16,8 +16,7 @@ Repozytorium przeznaczone do kolaboracji nad zadaniami z przedmiotu PNBI. Skupia
 
 # 🎬 Disney Movies Revenue Analysis (1937-2016)
 
-![Behold the Disney Dashboard Magic!](<img width="1282" height="722" alt="Zrzut ekranu 2026-04-12 225521" src="https://github.com/user-attachments/assets/3c6cdbe1-8f5b-4b09-a2ac-f01ac5e25f5e" />
-)
+![Behold the Disney Dashboard Magic!](https://github.com/user-attachments/assets/3c6cdbe1-8f5b-4b09-a2ac-f01ac5e25f5e)
 
 ## 🌟 About the Project
 Welcome to the most magical Power BI dashboard on the internet! This project dives deep into the financial history of Disney movies from 1937 to 2016. 
