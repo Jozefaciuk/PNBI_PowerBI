@@ -4,7 +4,7 @@ Repozytorium przeznaczone do kolaboracji nad zadaniami z przedmiotu PNBI. Skupia
 
 ## 👥 Zespół
 * **Maciej Józefaciuk**
-* **Adam Gierszon **
+* **Adam Gierszon**
 
 ## 🛠️ Stack Technologiczny
 * **Narzędzia BI:** Power BI
